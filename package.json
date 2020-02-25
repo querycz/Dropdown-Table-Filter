@@ -1,4 +1,6 @@
 {
-	"name": "Dropdown Table Filter",
-	"version": "1.0.0"
+	"name": "dropdown-table-filter",
+	"version": "1.0.0",
+	"description": "A jQuery plugin providing simple dropdown filters for table columns.",
+	"repository": "https://github.com/querycz/Dropdown-Table-Filter"
 }
